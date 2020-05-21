@@ -8,6 +8,7 @@ This is a simple project where I made an online game of the famous RockPaperScis
 # How to install?
 ## 1-For Windows:
 Download the PaperRockScissors.msi downloader, and follow the instructions like in the video.
+[![Demo installer](https://i.imgur.com/7BqMIFZ.gif)](https://www.youtube.com/watch?v=8Keo1hJYtX8)
 ## 2-For Linux:
 ### Dependencies:
 Install the dependencies first.
