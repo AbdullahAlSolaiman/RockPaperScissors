@@ -11,7 +11,7 @@ simple, you download, you will get connected to a game, and wating for another p
 Download the PaperRockScissors.msi downloader, and follow the instructions like in the video.
 
 
-[![Demo installer](https://j.gifs.com/71qWNO.gif)](https://www.youtube.com/watch?v=8Keo1hJYtX8)
+[![Demo installer](https://i.imgur.com/ZpBn3BZ.gif)](https://www.youtube.com/watch?v=8Keo1hJYtX8)
 
 ## 2-For Linux:
 ### Dependencies:
