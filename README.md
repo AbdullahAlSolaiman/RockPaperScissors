@@ -8,9 +8,9 @@ simple, you download, you will get connected to a game, and wating for another p
 
 # How to install?
 ## 1-For Windows:
-Download the PaperRockScissors.msi downloader, and follow the instructions like in the video.
+Download the PaperRockScissors.msi downloader, and follow the instructions like in the youtube video.
 
-[![Demo installer](https://i.imgur.com/ZpBn3BZ.gif)](https://www.youtube.com/watch?v=8Keo1hJYtX8)
+[![Demo installer](https://i.imgur.com/ZpBn3BZ.gif)]
 
 
 ## 2-For Linux:
@@ -28,14 +28,14 @@ $ sudo pip install pyame
 ```
 
 
-then install pygame:
+then run the game with python:
 ```sh
 $ python3 PaperRockScissors.py
 ```
 
 
 ### Side Notes
-Pickle is not safe to use, as [CVE-2019-6446](https://nvd.nist.gov/vuln/detail/CVE-2019-6446) and many other CVEs show us, the purpose was just to have fun.
+Pickle the library I am using to send and recieve object to my server is not safe to use, as [CVE-2019-6446](https://nvd.nist.gov/vuln/detail/CVE-2019-6446) and many other CVEs show us, the purpose was just to have fun.
 
 ### Todos
 
