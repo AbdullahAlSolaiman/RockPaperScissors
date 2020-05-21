@@ -10,7 +10,7 @@ simple, you download, you will get connected to a game, and wating for another p
 ## 1-For Windows:
 Download the PaperRockScissors.msi downloader, and follow the instructions like in the youtube video.
 
--![Sample Gif](https://i.imgur.com/ZpBn3BZ.gif)
+![Yotube Video](https://www.youtube.com/watch?v=8Keo1hJYtX8)
 
 +<img src="gifhowtoinstall.gif?raw=true" width="200px">
 
