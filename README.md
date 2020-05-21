@@ -12,7 +12,7 @@ Download the PaperRockScissors.msi downloader, and follow the instructions like 
 
 ![Yotube Video](https://www.youtube.com/watch?v=8Keo1hJYtX8)
 
-+<img src="gifhowtoinstall.gif?raw=true" width="200px">
++<img src="gifhowtoinstall.gif?raw=true" width="400px">
 
 
 
