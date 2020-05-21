@@ -3,7 +3,8 @@
 A Rock Paper Scissors game made with python
 
 This is a simple project where I made an online game of the famous RockPaperScissors game. The game server will be running for 1 month then I will shut it down due to the hosting cost that I won't be able to afford.
-
+# How To Play?
+simple, you download, you will get connected to a game, and wating for another player ,like your friend or any other player in the world, once he opens the game, the game will start.
 
 # How to install?
 ## 1-For Windows:
