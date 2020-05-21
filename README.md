@@ -10,8 +10,8 @@ simple, you download, you will get connected to a game, and wating for another p
 ## 1-For Windows:
 Download the PaperRockScissors.msi downloader, and follow the instructions like in the video.
 
-
 [![Demo installer](https://i.imgur.com/ZpBn3BZ.gif)](https://www.youtube.com/watch?v=8Keo1hJYtX8)
+
 
 ## 2-For Linux:
 ### Dependencies:
