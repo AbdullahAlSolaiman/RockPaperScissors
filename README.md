@@ -1,6 +1,6 @@
 
 # Online Game: RockPaperScissors
-A Rock Paper Scissors game made with python
+An online Clinet-Server Rock Paper Scissors game made with python
 
 This is a simple project where I made an online game of the famous RockPaperScissors game. The game server will be running for 1 month then I will shut it down due to the hosting cost that I won't be able to afford.
 # How To Play?
